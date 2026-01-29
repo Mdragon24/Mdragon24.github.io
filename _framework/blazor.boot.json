@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Jennka",
   "resources": {
-    "hash": "sha256-7gkJScLqp2HYkHwlD21ocLNO67NLl4Gi6X9Q+c6ECSU=",
+    "hash": "sha256-PqombL8HKBuCL7WjhcuR9LYOHpv2dZ21JRaPDqBMiEA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-TvVVyet/lF/2DVSnm3oWKHkqBci170d6+QdmgezdBkE=",
       "System.Text.RegularExpressions.wasm": "sha256-s/c6zyvTF5xCf4E/lGObOqyJNwXVbPn4VVPoQVJNNUQ=",
       "System.Private.CoreLib.wasm": "sha256-6q+T8EtY8vL341r4SP09GhWEXcjgl69THzxupBnifkw=",
-      "Jennka.wasm": "sha256-7U96KwU0hT5DCDfZCqeFAXCfuRmbQ68PRcXN1YIOOXk="
+      "Jennka.wasm": "sha256-n4a74dzrsRQEJK0qvAn8c5WbTq3Czz12Y82uGWEKhrY="
     }
   },
   "cacheBootResources": true,
